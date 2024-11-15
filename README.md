@@ -4,5 +4,7 @@ This is my first Git Repository
 Author: Simone Samuelson
 <br>
 Hello Students !
+<br>
+This is officially my first Git Repository!
 
 
